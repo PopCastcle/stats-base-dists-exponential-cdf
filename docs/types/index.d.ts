@@ -105,4 +105,4 @@ declare var cdf: CDF;
 
 // EXPORTS //
 
-export = cdf;
+export default cdf;
